@@ -1,4 +1,15 @@
 {
-  "boxes": [],
-  "nextBoxId": 5
+  "boxes": [
+    {
+      "id": 5,
+      "name": "新书包",
+      "items": []
+    },
+    {
+      "id": 6,
+      "name": null,
+      "items": []
+    }
+  ],
+  "nextBoxId": 7
 }
