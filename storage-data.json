@@ -9,7 +9,12 @@
       "id": 6,
       "name": "皮书包",
       "items": []
+    },
+    {
+      "id": 7,
+      "name": null,
+      "items": []
     }
   ],
-  "nextBoxId": 7
+  "nextBoxId": 8
 }
