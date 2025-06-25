@@ -14,7 +14,12 @@
       "id": 7,
       "name": "蓝色书包",
       "items": []
+    },
+    {
+      "id": 1,
+      "name": null,
+      "items": []
     }
   ],
-  "nextBoxId": 1
+  "nextBoxId": 2
 }
