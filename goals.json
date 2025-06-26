@@ -1,6 +1,12 @@
 {
   "goals": [
     {
+      "id": 1750940848642,
+      "text": "买鞋",
+      "completed": false,
+      "createdAt": "2025-06-26T12:27:28.642Z"
+    },
+    {
       "id": 1750927195827,
       "text": "窗帘",
       "completed": false,
