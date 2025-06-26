@@ -1,3 +1,10 @@
 {
-  "goals": []
+  "goals": [
+    {
+      "id": 1750927195827,
+      "text": "窗帘",
+      "completed": false,
+      "createdAt": "2025-06-26T08:39:55.829Z"
+    }
+  ]
 }
