@@ -220,7 +220,12 @@
         "空气加湿器",
         "尼龙扎带"
       ]
+    },
+    {
+      "id": 10,
+      "name": null,
+      "items": []
     }
   ],
-  "nextBoxId": 10
+  "nextBoxId": 11
 }
