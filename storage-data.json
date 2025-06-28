@@ -225,7 +225,12 @@
       "id": 10,
       "name": "旧凳子",
       "items": []
+    },
+    {
+      "id": 11,
+      "name": null,
+      "items": []
     }
   ],
-  "nextBoxId": 11
+  "nextBoxId": 12
 }
