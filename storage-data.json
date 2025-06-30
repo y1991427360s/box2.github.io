@@ -256,7 +256,9 @@
     {
       "id": 13,
       "name": null,
-      "items": []
+      "items": [
+        "杀虫剂"
+      ]
     }
   ],
   "nextBoxId": 14
