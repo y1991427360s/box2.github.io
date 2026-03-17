@@ -264,7 +264,12 @@
         "乒乓球拍",
         "文件夹"
       ]
+    },
+    {
+      "id": 17,
+      "name": null,
+      "items": []
     }
   ],
-  "nextBoxId": 17
+  "nextBoxId": 18
 }
